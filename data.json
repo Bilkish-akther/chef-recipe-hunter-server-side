@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefName": "Chef John Doe",
+    "chefName": "ripa shing",
     "chefImage": "https://i.ibb.co/dWQYvBX/chef1.jpg",
     "experience": 10,
     "recipes": 50,
@@ -60,7 +60,7 @@
   },
   {
     "id": 2,
-    "chefName":"Chef Jane Smith",
+    "chefName":"Abdul korim",
     "chefImage": "https://i.ibb.co/3p4LksV/chef2.jpg",
     "experience": 8,
     "recipes": 40,
@@ -121,7 +121,7 @@
   },
   {
     "id": 3,
-    "chefName": "Chef David Lee",
+    "chefName": "Chef arif",
     "chefImage": "https://i.ibb.co/JjD3kmd/hjb-n.jpg",
     "experience": 12,
     "recipes": 60,
@@ -181,7 +181,7 @@
   },
   {
     "id": 4,
-    "chefName": "Chef Sarah Johnson",
+    "chefName": "Chef Sarah ",
     "chefImage": "https://i.ibb.co/b6gn73q/hjgkbjn-m.jpg",
     "experience": 6,
     "recipes": 30,
@@ -239,7 +239,7 @@
   },
   {
     "id": 5,
-    "chefName":"Chef Sarah ",
+    "chefName":"Chef Samima ",
     "chefImage": "https://i.ibb.co/PzQP6mc/chef5.jpg",
     "experience": 9,
     "recipes": 30,
@@ -297,7 +297,7 @@
   },
   {
     "id": 6,
-    "chefName":"Chef Sarah Johnson",
+    "chefName":"Chef liya Johnson",
     "chefImage": "https://i.ibb.co/PY7vfP0/chef6.jpg",
     "experience": 6,
     "recipes": 30,
